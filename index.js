@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const Redmine = require('node-redmine');
 const csv = require('csvtojson');
 const moment = require('moment');

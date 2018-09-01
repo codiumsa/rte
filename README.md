@@ -5,7 +5,7 @@ Tiny helper to register you work on Redmine using a CSV file.
 # install
 
 ```
-$ npm -g git+https://git@github.com/codiumsa/rte.git
+$ npm install -g git+https://git@github.com/codiumsa/rte.git
 ```
 
 # configuration

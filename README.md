@@ -1,6 +1,6 @@
 # redmine time entries
 
-Tiny helper to register you work on Redmine using a CSV file.
+Tiny helper to register your work on Redmine using a CSV file.
 
 # install
 

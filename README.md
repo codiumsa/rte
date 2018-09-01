@@ -33,6 +33,8 @@ issue_id,spent_on,start_time,end_time,activity_id,comments
 * **spent_on:** the date the time was spent
 * **start_time:** the time you started working on the issue
 * **end_time:** the time you finished or stopped working on the issue
+* **activity_id:** the id of the time activity. This parameter is required unless a default activity is defined in Redmine.
+* **comments:** short description for the entry (255 characters max)
 
 More info [here](http://www.redmine.org/projects/redmine/wiki/Rest_TimeEntries#Creating-a-time-entry)
 
